@@ -12,10 +12,12 @@
 - Three most common sources of Node modules
 - Creating and publishing own modules
 
-### Module 3 
-- Overview of NodeJS and its beginnings
-- The importance on Node's event loop and non-blocking I/O
-- Writing asynchronous code using callbacks
+### Module 3 : Events and Streams
+- Callbacks vs Events
+- Node's EventEmitter class
+- Pattern for using EventEmitters
+- Readable and Writable Streams
+- Pipping Between Streams
 
 ### Module 4
 - Overview of NodeJS and its beginnings
@@ -26,3 +28,6 @@
 - Overview of NodeJS and its beginnings
 - The importance on Node's event loop and non-blocking I/O
 - Writing asynchronous code using callbacks
+
+
+<!-- This Course is Presented by Paul O'Fallon -->
