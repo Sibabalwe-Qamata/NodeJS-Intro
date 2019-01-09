@@ -30,5 +30,15 @@
 - Building a web server
 - Real-time integration using Socket.IO
 
+### Module 6: Testing and Debugging
+- Using Node as a Web Client
+- Building a web server
+- Real-time integration using Socket.IO
+
+### Module 7 : Scaling Node Applications
+- Using Node as a Web Client
+- Building a web server
+- Real-time integration using Socket.IO
+
 
 <!-- This Course is Presented by Paul O'Fallon -->
