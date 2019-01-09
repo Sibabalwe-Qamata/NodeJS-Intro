@@ -1,6 +1,6 @@
 var request = require('request');
 
-var s = request('http://www.pluralsight.com/');
+var s = request('https://sibabalwe-qamata.github.io/');
 
 s.on('data', function(chunk) {
     console.log(">>>Data>>> " + chunk);

@@ -16,10 +16,11 @@ var getResource = function(c) {
     return(e);
 };
 
-var r = getResource(5);
+//Instance of an EventEmitter - It will emmit events
+var r = getResource(8);
 
 r.on('start', function() {
-    console.log("I've started!");
+    console.log("I've started. Let's do this! ");
 });
 
 r.on('data', function(d) {
