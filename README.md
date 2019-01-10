@@ -31,9 +31,9 @@
 - Real-time integration using Socket.IO
 
 ### Module 6: Testing and Debugging
-- Using Node as a Web Client
-- Building a web server
-- Real-time integration using Socket.IO
+- Basic testing with Node's built-in "assert" module
+- Testing with mocha and should.js
+- Debugging Node.js apps in C9 IDE
 
 ### Module 7 : Scaling Node Applications
 - Using Node as a Web Client
