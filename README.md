@@ -36,9 +36,9 @@
 - Debugging Node.js apps in C9 IDE
 
 ### Module 7 : Scaling Node Applications
-- Using Node as a Web Client
-- Building a web server
-- Real-time integration using Socket.IO
+- Creating child processes in Node
+- Scaling your Node app with the "cluster" module
+
 
 
 <!-- This Course is Presented by Paul O'Fallon -->
